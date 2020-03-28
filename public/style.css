@@ -164,6 +164,14 @@ footer a {
     margin: 16px 0;
 }
 
+.idea .content button img{
+    max-width:20px;
+    max-height:20px;
+    position: relative;
+    left: 300px;
+    bottom: 10px;
+}
+
 /*modal*/
 
 #modal {
